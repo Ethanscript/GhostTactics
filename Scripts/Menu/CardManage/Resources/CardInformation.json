@@ -1,0 +1,88 @@
+{
+  "list": [
+    {
+      "num": 0,
+      "attr": 0,
+      "name": "冰冻骑士",
+      "description": "冰属性的骑士，擅长近战",
+      "image": "Knight_Forest"
+    },
+    {
+      "num": 1,
+      "attr": 1,
+      "name": "火焰骑士",
+      "description": "火属性的骑士，擅长近战",
+      "image": "Knight_Fire"
+    },
+    {
+      "num": 2,
+      "attr": 2,
+      "name": "自然骑士",
+      "description": "有着自然力量的骑士，擅长近战",
+      "image": "Knight"
+    },
+    {
+      "num": 3,
+      "attr": 0,
+      "name": "冰冻法师",
+      "description": "冰属性的法师，使用魔法攻击",
+      "image": "Wizard_Forest"
+    },
+    {
+      "num": 4,
+      "attr": 1,
+      "name": "火焰法师",
+      "description": "火属性的法师，使用魔法攻击",
+      "image": "Wizard_Fire"
+    },
+    {
+      "num": 5,
+      "attr": 2,
+      "name": "自然法师",
+      "description": "有着自然力量的法师，使用魔法攻击",
+      "image": "Wizard_Nature"
+    },
+    {
+      "num": 6,
+      "attr": 0,
+      "name": "冰冻弓手",
+      "description": "冰属性的弓手，使用弓箭射击",
+      "image": "Archer_Forest"
+    },
+    {
+      "num": 7,
+      "attr": 1,
+      "name": "火焰弓手",
+      "description": "火属性的弓手，使用弓箭射击",
+      "image": "Archer_Fire"
+    },
+    {
+      "num": 8,
+      "attr": 2,
+      "name": "自然弓手",
+      "description": "有着自然力量的弓手，使用弓箭射击",
+      "image": "Archer_Nature"
+    },
+    {
+      "num": 9,
+      "attr": 4,
+      "name": "沉沦骑士",
+      "description": "水属性的弓手，擅长近战",
+      "image": "Knight_Water"
+    },
+    {
+      "num": 10,
+      "attr": 4,
+      "name": "沉沦法师",
+      "description": "水属性的法师，使用魔法攻击",
+      "image": "Wizard_Water"
+    },
+    {
+      "num": 11,
+      "attr": 4,
+      "name": "沉沦弓手",
+      "description": "水属性的弓手，使用弓箭射击",
+      "image": "Archer_Water"
+    }
+  ]
+}
